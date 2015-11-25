@@ -1,6 +1,6 @@
-# envisiodev
+# Envisiodevs
 
-#Trophy Program
+#Trophy Program (Question 1)
 1. There are two files namely trophy_index.html and tophy_index.php.
 2. Run the HTML file and enter the desired input.
 3. Click on the "Calculate" button.
